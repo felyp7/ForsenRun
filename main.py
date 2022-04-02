@@ -1,7 +1,7 @@
 
 
 
-__author__ = "Rohit Rane"
+__author__ = "Felyp"
 
 import os
 import sys
