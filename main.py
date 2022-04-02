@@ -23,7 +23,7 @@ high_score = 0
 
 screen = pygame.display.set_mode(scr_size)
 clock = pygame.time.Clock()
-pygame.display.set_caption("Dino Run ")
+pygame.display.set_caption("Forsen Run ")
 
 jump_sound = pygame.mixer.Sound('sprites/jump.wav')
 die_sound = pygame.mixer.Sound('sprites/die.wav')
